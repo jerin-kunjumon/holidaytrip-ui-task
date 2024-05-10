@@ -19,7 +19,7 @@ const Plan = () => {
         <p className='text-2xl py-6'>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quae, in?</p>
         <p className='pb-6'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Amet dolore est dolor unde nemo, temporibus mollitia. Porro quod quaerat recusandae cupiditate quos, magni excepturi ut iusto praesentium officiis neque quis.</p>
         <div>
-            <button className='border-black mr-4 hover:shadow-xl'>Learn More</button>
+            <button className='border-black mr-4 hover:shadow-xl max-[280px]:mb-2'>Learn More</button>
             <button className='bg-black text-white border-black hover:shadow-xl'>Book Your Trip</button>
         </div>
       </div>
