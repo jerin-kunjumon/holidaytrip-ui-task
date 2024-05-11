@@ -16,8 +16,14 @@ const Plan = () => {
         <h3 className='text-5xl md:text-6xl font-bold'>
             Plan Your Next Trip
         </h3>
-        <p className='text-2xl py-6'>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quae, in?</p>
-        <p className='pb-6'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Amet dolore est dolor unde nemo, temporibus mollitia. Porro quod quaerat recusandae cupiditate quos, magni excepturi ut iusto praesentium officiis neque quis.</p>
+        <p className='text-2xl py-6'>Want to embark on your next adventure?</p>
+        <p className='pb-6'>Begin your journey to a new and exciting destination. Explore our curated itineraries and travel guides to make the most of your holiday.
+
+
+
+
+
+</p>
         <div>
             <button className='border-black mr-4 hover:shadow-xl max-[280px]:mb-2'>Learn More</button>
             <button className='bg-black text-white border-black hover:shadow-xl'>Book Your Trip</button>

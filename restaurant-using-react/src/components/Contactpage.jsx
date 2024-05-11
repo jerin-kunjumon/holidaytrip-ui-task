@@ -18,8 +18,7 @@ const Contactpage = () => {
             <div>
               <h1 className="font-bold text-4xl tracking wide">Contact Us</h1>
               <p className="pt-2 text-cyan-100 text-sm">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Deleniti, doloremque.
+              Have a question or need assistance with your holiday trip? Our team is here to help! 
               </p>
             </div>
             <div className="flex flex-col space-y-6">
@@ -35,14 +34,14 @@ const Contactpage = () => {
                   name="mail"
                   className="text-teal-300 text-xl"
                 ></ion-icon>
-                <span>contact@xyzwebsite.com</span>
+                <span>info@holidaytrip.com</span>
               </div>
               <div className="inline-flex space-x-2 items-center">
                 <ion-icon
                   name="location"
                   className="text-teal-300 text-xl"
                 ></ion-icon>
-                <span>11, Street 342, Abcd fgh</span>
+                <span>11, Street 342, Hesisenburgh</span>
               </div>
             </div>
             <div className="flex space-x-4 text-lg">

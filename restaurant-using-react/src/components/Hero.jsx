@@ -9,8 +9,7 @@ const Hero = () => {
         <div className='md:left-[10%] max-w-[1100px] m-auto absolute p-4'>
             <p>All Inclusive</p>
             <h1 className='font-bold text-5xl md:text-7xl drop-shadow-2xl'>Private Beaches & Getaways</h1>
-            <p className='max-w-[600px] drop-shadow-2xl py-2 text-xl'>Lorem ipsum dolor sit amet consectetur adipisicing elit.
-             Ullam corporis, recusandae ut beatae saepe molestiae accusamus quibusdam nisi quaerat suscipit.</p>
+            <p className='max-w-[600px] drop-shadow-2xl py-2 text-xl'>Escape to paradise with our selection of private beaches and getaways. Explore secluded shores, luxurious resorts, and exclusive retreats, where the only footprints in the sand are your own. Your perfect holiday awaits.</p>
              <button className='bg-white text-black '>Reserve Now</button>
         </div>
       </div>
