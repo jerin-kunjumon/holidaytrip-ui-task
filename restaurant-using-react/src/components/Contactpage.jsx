@@ -12,7 +12,7 @@ const Contactpage = () => {
   return (
     // <div className="max-w-[1400px] m-auto px-4">
 
-      <div className="flex w-full ">
+      <div id="contactpage" className="flex w-full ">
         <div className="flex flex-col md:flex-row md:space-x-6 space-y-6 md:space-y-0 bg-cyan-700 w-full justify-center items-center max-w-screen-xl p-8 sm:p-12  shadow-lg text-white">
           <div className="flex flex-col space-y-8 justify-between">
             <div>

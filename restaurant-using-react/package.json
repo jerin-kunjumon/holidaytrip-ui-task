@@ -10,7 +10,9 @@
     "autoprefixer": "^10.4.19",
     "postcss-cli": "^11.0.0",
     "react": "^18.3.1",
+    "react-anchor-link-smooth-scroll": "^1.0.12",
     "react-dom": "^18.3.1",
+    "react-router-dom": "^6.23.1",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
